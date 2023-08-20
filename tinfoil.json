@@ -1,167 +1,127 @@
 {
-  "//": "made with <3 by: not_secret1337 and whycron.",
-  "success": "Tinfoil Server V2 by not_secret1337 and whycron.",
-  "verison": 2.0,
-  "files": [
-    {
-      "//": "Fortnite Base, 5792315KB",
-      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE000%5D%5Bv0%5D#Fortnite%20%Base%20%v0%20%[0].nsp",
-      "size": 5792315
-    },
-    {
-      "//": "Forntite v4.4.2",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 2190000000
-    },
-    {
-      "//": "Forntite v4.5",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 2610000000
-    },
-    {
-      "//": "Forntite v5.10.1",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 2250000000
-    },
-    {
-      "//": "Forntite v5.10.2",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 2583725948
-    },
-    {
-      "//": "Forntite v5.30.2",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 2660000000
-    },
-    {
-      "//": "Forntite v5.40",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 4506157862
-    },
-    {
-      "//": "Forntite v5.40.1",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 2875036542
-    },
-    {
-      "//": "Fortnite v6.10 [N/A]",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 1337
-    },
-    {
-      "//": "Fortnite v6.30",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 3755660054
-    },
-    {
-      "//": "Fortnite v6.31",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 3455426560
-    },
-    {
-      "//": "Fortnite v7.10",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 7330000000
-    },
-    {
-      "//": "Fortnite v7.20.1",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 4383959718
-    },
-    {
-      "//": "Fortnite v7.40 [N/A]",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 1337
-    },
-    {
-      "//": "Fortnite v8.30.1",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 4720000000
-    },
-    {
-      "//": "Fortnite v8.50",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 4720000000
-    },
-    {
-      "//": "Fortnite v8.51",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 5072691648
-    },
-    {
-      "//": "Fortnite v9.00",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 5393244160
-    },
-    {
-      "//": "Fortnite v9.10",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 5368709120
-    },
-    {
-      "//": "Fortnite v9.20",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 5864360896
-    },
-    {
-      "//": "Fortnite v9.30.1",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 6151614864
-    },
-    {
-      "//": "Fortnite v9.40",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 6366724032
-    },
-    {
-      "//": "Fortnite v9.41",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 6367862784
-    },
-    {
-      "//": "Fortnite v10.10",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 6721623818
-    },
-    {
-      "//": "Fortnite v10.30",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 7044939776
-    },
-    {
-      "//": "Fortnite v10.31",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 7516192768
-    },
-    {
-      "//": "Fortnite v11.00.1",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 7516192768
-    },
-    {
-      "//": "Fortnite v12.10",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 9663676416
-    },
-    {
-      "//": "Fortnite v12.61",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 10737418240
-    },
-    {
-      "//": "Fortnite v14.30",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 12884901888
-    },
-    {
-      "//": "Fortnite v15.30",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 12387381136
-    },
-    {
-      "//": "Fortnite v19.10",
-      "url": "https://switchcdn.fnbuilds.services/",
-      "size": 15032385536
-    }
-  ]
-}
+    "files": [
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE000%5D%5Bv0%5D.nsp",
+        "size": 5792315,
+        "title": "Fortnite Switch Base (v0)"
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5Bv262144%5D.nsp",
+        "size": 2190000000
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5Bv327680%5D.nsp",
+        "size": 2610000000
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv589824%5D.nsp",
+        "size": 2250000000
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5Bv655360%5D.nsp",
+        "size": 2583725948
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv1114112%5D.nsp",
+        "size": 2660000000
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv1179648%5D.nsp",
+        "size": 4506157862
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv1245184%5D.nsp",
+        "size": 2875036542
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv2162688%5D.nsp",
+        "size": 3755660054
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv2228224%5D.nsp",
+        "size": 3455426560
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv2424832%5D.nsp",
+        "size": 7330000000
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20010025400AECE800v2555904.nsp",
+        "size": 4383959718
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3473408%5D.nsp",
+        "size": 4720000000
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5B%5D%5Bv3670016%5D.nsp",
+        "size": 4720000000
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3735552%5D.nsp",
+        "size": 5072691648
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3801088%5D.nsp",
+        "size": 5393244160
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3932160%5D.nsp",
+        "size": 5368709120
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3997696%5D.nsp",
+        "size": 5864360896
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4194304%5D%5BUPD%5D.nsp",
+        "size": 6151614864
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4259840%5D.nsp",
+        "size": 6366724032
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4325376%5D.nsp",
+        "size": 6367862784
+      },
+      {
+        "url": "https://FILE_IS_CURRENTLY_NOT_AVAILABLE.COM#Fortnite v10.10 [UPD][010025400AECE800][unknown-CL].nsp",
+        "size": 6721623818
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5BUS%5D%5Bv4718592%5D.nsp",
+        "size": 7044939776
+      },
+      {
+        "url": "https://FILE_IS_CURRENTLY_NOT_AVAILABLE.COM#Fortnite v10.31 [US][010025400AECE800][4784128].nsp",
+        "size": 7516192768
+      },
+      {
+        "url": "https://FILE_IS_CURRENTLY_NOT_AVAILABLE.COM#Fortnite v11.00.1 [UPD][010025400AECE800][unknown-CL].nsp",
+        "size": 7516192768
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv6225920%5D.nsp#Fortnite v12.10 [UPD][010025400AECE800][6225920].nsp",
+        "size": 9663676416
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20v6881280%20(010025400AECE800)%20(UPD).nsp#Fortnite v12.61 [UPD][010025400AECE800][6881280].nsp",
+        "size": 10737418240
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv7733248%5D.nsp",
+        "size": 12884901888
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20v8388608.nsp",
+        "size": 12387381136
+      },
+      {
+        "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv11010048%5D%5BUPD%5D.nsp",
+        "size": 15032385536
+      }
+    ],
+    "directories": [""],
+    "success": "Successfully Connected! \n\nWelcome to the Fortnite Nintendo Switch archive on Tinfoil, created and maintained by: WhyCron#8977 and secret_pommes#1337\n\nWe are currently missing a few builds!\nIf you'd like to contribute a missing build, please get contact with us at https://discord.gg/V7PRRQHG44\n\n\nBuilds hosted and maintained by lintu on her Google Drive!"
+  }
