@@ -2,17 +2,14 @@
   "success": "Success!\n Welcome to the Fortnite Switch Archive on tinfoil!\nJoin our discord to get updates (https://dsc.gg/switchfnmodding)",
   "files": [
     {
-      "//": "Fortnite Base v0",
       "url": "https://switchcdn.fnbuilds.services/Fortnite%20Base%20v0%20%5BCL-0%5D.nsp",
       "size": 5792315
     },
     {
-      "//": "Forntite v7.40",
       "url": "https://switchcdn.fnbuilds.services/Fortnite%207.40%20%5BCL-2752517%5D.nsp",
       "size": 5178298447
     },
     {
-      "//": "Forntite v8.51",
       "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3735552%5D.nsp",
       "size": 5072691648
     }
