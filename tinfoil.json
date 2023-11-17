@@ -1,17 +1,125 @@
 {
-  "success": "Success!\n Welcome to the Fortnite Switch Archive on tinfoil!\nJoin our discord to get updates (https://dsc.gg/switchfnmodding)",
+  "success": "Success!\n Welcome to the Fortnite Switch Archive on tinfoil!\nJoin our discord to get updates (https://dsc.gg/switchfnmodding)\n\nThanks to blk for hosting the builds ^^",
   "files": [
     {
-      "url": "https://switchcdn.fnbuilds.services/Fortnite%20Base%20v0%20%5BCL-0%5D.nsp",
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20Base%20v0%20%5BCL-0%5D.nsp#! Fortntite Base.nsp",
       "size": 5792315
     },
     {
-      "url": "https://switchcdn.fnbuilds.services/Fortnite%207.40%20%5BCL-2752517%5D.nsp",
-      "size": 5178298447
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5Bv262144%5D.nsp#! Fortnite Season 4 (v4.4.2).nsp",
+      "size": 2190000000
     },
     {
-      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3735552%5D.nsp",
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5Bv327680%5D.nsp#!Fortnite Season 4 (v4.5).nsp",
+      "size": 2610000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv589824%5D.nsp#!Fortnite Season 5 (v5.10.1).nsp",
+      "size": 2250000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5Bv655360%5D.nsp#!Fortnite Season 5 (v5.10.2).nsp",
+      "size": 2583725948
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv1114112%5D.nsp#! Fortnite Season 5 (v5.30.2).nsp",
+      "size": 2660000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv1179648%5D.nsp#! Fortnite Season 5 (v5.40).nsp",
+      "size": 4506157862
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv1245184%5D.nsp#! Fortnite Season 5 (v5.40.1).nsp",
+      "size": 2875036542
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5BUPD%5D%5B010025400aece800%5D%5Bv2162688%5D.nsp#! Fortnite Season 6 (v6.30).nsp",
+      "size": 3755660054
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv2228224%5D.nsp#! Fortnite Season 6 (v6.31).nsp",
+      "size": 3455426560
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv2424832%5D.nsp#! Fortnite Season 7 (v7.10).nsp",
+      "size": 7330000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20010025400AECE800v2555904.nsp#! Fornite Season 7 (v7.20.1).nsp",
+      "size": 4383959718
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%207.40%20%5BCL-2752517%5D.nsp#! Fortnite Season 7 (v7.40).nsp",
+      "size": 4800000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3473408%5D.nsp#! Fortnite Season 8 (v8.30.1).nsp",
+      "size": 4720000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5B%5D%5Bv3670016%5D.nsp#! Fortnite Season 8 (v8.50).nsp",
+      "size": 4720000000
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3735552%5D.nsp#! Fortnite Season 8 (v8.51).nsp",
       "size": 5072691648
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3801088%5D.nsp#! Fortnite Season 9 (v9.00).nsp",
+      "size": 5393244160
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3932160%5D.nsp#! Fortnite Season 9 (v9.10).nsp",
+      "size": 5368709120
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv3997696%5D.nsp#! Fortnite Season 9 (v9.20).nsp",
+      "size": 5864360896
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4194304%5D%5BUPD%5D.nsp#! Fortnite Season 9 (v9.30.1).nsp",
+      "size": 6151614864
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4259840%5D.nsp#! Fortnite Season 9 (v9.40).nsp",
+      "size": 6366724032
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4325376%5D.nsp#! Fortnite Season 9 (v9.41).nsp",
+      "size": 6367862784
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv4456448%5D%5B10.10%5D.nsp#! Fortnite Season 10 (v10.10).nsp",
+      "size": 6721623818
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%5B010025400AECE800%5D%5BUS%5D%5Bv4718592%5D.nsp#! Fortnite Season 10 (v10.30).nsp",
+      "size": 7044939776
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv5046272%5D%5B11.00.1%5D.nsp#! Fortnite Season 11 (v11.00.1).nsp",
+      "size": 7516192768
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv6225920%5D.nsp#! Fortnite Season 12 (v12.10).nsp",
+      "size": 9663676416
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20v6881280%20(010025400AECE800)%20(UPD).nsp#! Fortnite Season 12 (v12.61).nsp",
+      "size": 10737418240
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv7733248%5D.nsp#! Fortnite Season 14 (v14.30).nsp",
+      "size": 12884901888
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20v8388608.nsp#! Fortnite Season 15 (v15.30).nsp",
+      "size": 12387381136
+    },
+    {
+      "url": "https://switchcdn.fnbuilds.services/Fortnite%20%5B010025400AECE800%5D%5Bv11010048%5D%5BUPD%5D.nsp#! Fortnite Season 19 (v19.10).nsp",
+      "size": 15032385536
     }
   ]
 }
